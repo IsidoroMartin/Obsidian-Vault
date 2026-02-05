@@ -1,0 +1,12 @@
+# Archivos de sesión de Obsidian (No compartir)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/backups/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Si usas el plugin Sync u otros temporales
+*.sync-conflict-*
