@@ -57,7 +57,7 @@ Utilizaremos el algoritmo **Ed25519**, que es el estándar actual por seguridad 
     
     PowerShell
     ```powershell    
-	ssh-keygen -t ed25519 -C "nombre.apellido1.apellido2@example.com" -f $env:USERPROFILE\.ssh\commit-signing-mo
+	ssh-keygen -t ed25519 -C "nombre.apellido.apellido@example.com" -f $env:USERPROFILE\.ssh\commit-signing-mo
     ```
     
 2. Presiona `Enter` para aceptar la ruta (o cámbiala si lo prefieres).

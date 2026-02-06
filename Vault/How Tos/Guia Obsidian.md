@@ -23,6 +23,10 @@ Table of Contents
 
 Esta guía te ayudará a configurar Obsidian para que tus notas sean totalmente compatibles con GitHub, incluyendo el manejo de enlaces, imágenes, tablas y diagramas.
 
+Template con toda la config recogida en esta guía:
+
+https://github.com/IsidoroMartin/Obsidian-Vault/tree/template
+
 ## 1. Configuración de los Links (Enlaces)
 
 Para que los enlaces funcionen correctamente en GitHub (que usa Markdown estándar), debemos desactivar los "WikiLinks" nativos de Obsidian.
