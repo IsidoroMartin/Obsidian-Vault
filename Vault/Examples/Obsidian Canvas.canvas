@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"node1","type":"text","text":"# Ejemplo de Canvas\nEste es un nodo de texto en un archivo .canvas de Obsidian.","x":0,"y":0,"width":400,"height":140},
+		{"id":"763db7829f0f1ba4","type":"file","file":"Vault/Examples/Mermaid Diagram.md","x":-580,"y":0,"width":400,"height":700},
+		{"id":"7729c4721a7ed6b6","type":"file","file":"Excalidraw/Drawing 2026-02-06 08.14.53.excalidraw.md","x":540,"y":0,"width":400,"height":400},
+		{"id":"8ddb37bc2318f86c","x":75,"y":840,"width":250,"height":60,"type":"text","text":"Ejemplo"}
+	],
+	"edges":[
+		{"id":"9c18fccd00ff4444","fromNode":"8ddb37bc2318f86c","fromSide":"right","toNode":"7729c4721a7ed6b6","toSide":"bottom"},
+		{"id":"4465b76fa6ce4c3b","fromNode":"8ddb37bc2318f86c","fromSide":"left","toNode":"763db7829f0f1ba4","toSide":"bottom"},
+		{"id":"fad728d3160fca7e","fromNode":"node1","fromSide":"bottom","toNode":"8ddb37bc2318f86c","toSide":"top"}
+	]
+}
